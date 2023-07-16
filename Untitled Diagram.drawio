@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T07:11:37.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="RPIYMvymJGECteiOMg-E" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-16T07:21:32.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="98sJUG00rFRmlUfQEuzn" version="21.6.2" type="github">
   <diagram name="Page-1" id="p1Gr9pFNRzvYWjwsrW89">
     <mxGraphModel dx="1232" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,13 +7,13 @@
         <mxCell id="OfRuzW8HElULrBoSLvWS-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="120" width="370" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="OfRuzW8HElULrBoSLvWS-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;刀具知识图谱本体模型构建&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OfRuzW8HElULrBoSLvWS-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;机加工知识图谱本体模型构建&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="130" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OfRuzW8HElULrBoSLvWS-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="310" width="370" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="OfRuzW8HElULrBoSLvWS-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;刀具数据融合与知识图谱构建&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OfRuzW8HElULrBoSLvWS-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;机加工数据融合与知识图谱构建&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OfRuzW8HElULrBoSLvWS-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -22,10 +22,10 @@
         <mxCell id="OfRuzW8HElULrBoSLvWS-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;刀具及切削参数推荐&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="710" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OfRuzW8HElULrBoSLvWS-7" value="刀具本体识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OfRuzW8HElULrBoSLvWS-7" value="加工过程本体识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="160" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OfRuzW8HElULrBoSLvWS-8" value="刀具本知识获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OfRuzW8HElULrBoSLvWS-8" value="加工过程本知识获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="210" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OfRuzW8HElULrBoSLvWS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OfRuzW8HElULrBoSLvWS-9" target="OfRuzW8HElULrBoSLvWS-10">
@@ -54,7 +54,7 @@
         <mxCell id="OfRuzW8HElULrBoSLvWS-12" value="多模态数据融合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="516" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OfRuzW8HElULrBoSLvWS-13" value="刀具的多元加权知识图谱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OfRuzW8HElULrBoSLvWS-13" value="机加工的多元加权知识图谱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="580" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OfRuzW8HElULrBoSLvWS-14" value="基于PPR算法的刀具推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
